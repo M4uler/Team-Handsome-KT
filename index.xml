@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="Mauler&apos;s Handsome Kill Team Rep" indexUrl="https://dl.dropboxusercontent.com/s/h2c4b53y4f0vkcw/index.bsi?dl=1" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team.gstz" dataType="gamesystem" dataId="b6fa-5ebc-2b28-98ad" dataName="[Team Handsome] Warhammer 40,000: Kill Team" dataBattleScribeVersion="2.01" dataRevision="1000"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Drukhari.catz" dataType="catalogue" dataId="3591-2aa0-250c-ddeb" dataName="Drukhari" dataBattleScribeVersion="2.01" dataRevision="5"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Adeptus Mechanicus.catz" dataType="catalogue" dataId="ff2c-d2cf-bc85-3c79" dataName="Adeptus Mechanicus" dataBattleScribeVersion="2.01" dataRevision="5"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Harlequins.catz" dataType="catalogue" dataId="8f3b-d6fd-0ad8-06f2" dataName="Harlequins" dataBattleScribeVersion="2.01" dataRevision="4"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Heretic Astartes.catz" dataType="catalogue" dataId="ecac-e836-08ce-c0aa" dataName="Heretic Astartes" dataBattleScribeVersion="2.01" dataRevision="4"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Tyranids.catz" dataType="catalogue" dataId="a8de-fa3a-9163-0c20" dataName="Kill Team - Tyranids" dataBattleScribeVersion="2.01" dataRevision="1000"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Asuryani.catz" dataType="catalogue" dataId="a796-a947-905e-205c" dataName="Asuryani" dataBattleScribeVersion="2.01" dataRevision="5"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Grey Knights.catz" dataType="catalogue" dataId="af25-b676-5b53-c0dd" dataName="Grey Knights" dataBattleScribeVersion="2.01" dataRevision="3"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Deathwatch.catz" dataType="catalogue" dataId="7548-75cf-ab24-7e9c" dataName="Deathwatch" dataBattleScribeVersion="2.01" dataRevision="3"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Adeptus Astartes.catz" dataType="catalogue" dataId="6112-edb9-977c-198e" dataName="Adeptus Astartes" dataBattleScribeVersion="2.01" dataRevision="2"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Thousand Sons.catz" dataType="catalogue" dataId="7e0e-5010-f3b4-dc1d" dataName="Thousand Sons" dataBattleScribeVersion="2.01" dataRevision="3"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Necrons.catz" dataType="catalogue" dataId="d1bc-0b71-2f3d-71eb" dataName="Necrons" dataBattleScribeVersion="2.01" dataRevision="3"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Death Guard.catz" dataType="catalogue" dataId="369f-8d9a-1b69-00dc" dataName="Death Guard" dataBattleScribeVersion="2.01" dataRevision="4"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - T&apos;au Empire.catz" dataType="catalogue" dataId="27f0-8010-1566-6230" dataName="Kill Team - T&apos;au Empire" dataBattleScribeVersion="2.01" dataRevision="1000"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Genestealer Cults.catz" dataType="catalogue" dataId="5479-cc66-3156-2e54" dataName="Genestealer Cults" dataBattleScribeVersion="2.01" dataRevision="3"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Orks.catz" dataType="catalogue" dataId="a34e-d16c-80ff-06bf" dataName="Orks" dataBattleScribeVersion="2.01" dataRevision="9"/>
+    <dataIndexEntry filePath="[Team Handsome] Kill Team - Astra Militarum.catz" dataType="catalogue" dataId="4c51-0669-1f79-d8aa" dataName="Astra Militarum" dataBattleScribeVersion="2.01" dataRevision="6"/>
+  </dataIndexEntries>
+</dataIndex>
